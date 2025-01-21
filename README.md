@@ -35,20 +35,20 @@ To get the quiz application up and running locally, follow these steps:
    ```bash
    git clone https://github.com/rohitsinghpanwar/casualfunnel_Assignment.git
 
-3. **Navigate to the frontend directory**: 
-    `cd frontend/helliverse`
-
-4. **Install Dependencies**:
+3. **Install Dependencies**:
     `npm install`
 
-5. **Run the Development Server**: 
+4. **Run the Development Server**: 
     `npm run dev`
 
-6. **Deployment Link of this Project**:
+5. **Deployment Link of this Project**:
     https://quirkyquizzy.netlify.app/
 
 # How to play Quiz
 1. After navigating to the application, you'll be prompted to enter your email. This is required to start the quiz.
+
 2. Start the quiz by clicking the Start Quiz button.
+
 3. The quiz will last for 30 minutes. Answer the multiple-choice questions, and your progress will be saved.
+
 4. Once the timer reaches 0, the quiz will be automatically submitted, and you’ll receive your score!
