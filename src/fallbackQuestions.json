@@ -1,0 +1,80 @@
+{
+    "questions": [
+      {
+        "question": "In what year was 'Metal Gear Solid' released in North America?",
+        "choices": ["1987", "2001", "2004", "1998"],
+        "correctAnswer": "1998"
+      },
+      {
+        "question": "In 'Need for Speed: Porsche Unleashed', the player can only drive cars manufactured by Porsche.",
+        "choices": ["False", "True"],
+        "correctAnswer": "True"
+      },
+      {
+        "question": "The prefix Sino- (As in Sino-American) is used to refer to what nationality?",
+        "choices": ["Japanese", "Russian", "Indian", "Chinese"],
+        "correctAnswer": "Chinese"
+      },
+      {
+        "question": "Which of the following games was NOT included in Valve's Orange Box?",
+        "choices": ["Portal", "Half-Life 2: Episode Two", "Team Fortress 2", "Counter-Strike"],
+        "correctAnswer": "Counter-Strike"
+      },
+      {
+        "question": "'Elementary, my dear Watson' is a phrase that is never truly said within the Conan Doyle books of Sherlock Holmes.",
+        "choices": ["False", "True"],
+        "correctAnswer": "True"
+      },
+      {
+        "question": "What is the name of Finnish DJ Darude's hit single released in October 1999?",
+        "choices": ["Dust Devil", "Sirocco", "Khamsin", "Sandstorm"],
+        "correctAnswer": "Sandstorm"
+      },
+      {
+        "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+        "choices": ["Impact printer", "Daisywheel printer", "Dot matrix printer", "Non-impact printer"],
+        "correctAnswer": "Non-impact printer"
+      },
+      {
+        "question": "In 'Call Of Duty: Zombies', which map's opening cutscene shows 'Richtofen' killing another version of himself?",
+        "choices": ["Shadows Of Evil", "Der Eisendrache", "Moon", "The Giant"],
+        "correctAnswer": "The Giant"
+      },
+      {
+        "question": "Who had a 1983 hit with the song 'Africa'?",
+        "choices": ["Foreigner", "Steely Dan", "Journey", "Toto"],
+        "correctAnswer": "Toto"
+      },
+      {
+        "question": "The now extinct species 'Thylacine' was native to where?",
+        "choices": ["Baluchistan, Pakistan", "Wallachia, Romania", "Oregon, United States", "Tasmania, Australia"],
+        "correctAnswer": "Tasmania, Australia"
+      },
+      {
+        "question": "One of the early prototypes of the Sega Dreamcast controller resembled which of the following?",
+        "choices": ["Tablet", "Hairdryer", "Flip Phone", "Television Remote"],
+        "correctAnswer": "Television Remote"
+      },
+      {
+        "question": "Who wrote the novel 'Fear And Loathing In Las Vegas'?",
+        "choices": ["F. Scott Fitzgerald", "Henry Miller", "William S. Burroughs", "Hunter S. Thompson"],
+        "correctAnswer": "Hunter S. Thompson"
+      },
+      {
+        "question": "What year was Red Hot Chili Pepper's album 'Californication' released?",
+        "choices": ["1997", "2000", "1992", "1999"],
+        "correctAnswer": "1999"
+      },
+      {
+        "question": "What is the AK-47's name in Counter Strike: Source?",
+        "choices": ["AK-74", "AK", "CZ-75", "CV-47"],
+        "correctAnswer": "CV-47"
+      },
+      {
+        "question": "What 1970's American ballad referred to the 1959 plane crash as 'the day the music died'?",
+        "choices": ["Kentucky Rain", "I Will Always Love You", "Rock 'n' Roll Suicide", "American Pie"],
+        "correctAnswer": "American Pie"
+      }
+    ]
+  }
+  
